@@ -3,7 +3,7 @@
 
 <!--TITULO-->
 <div id="user-content-toc" align="center">
-    <h1 style="display: inline-block">Hi👋, I'm Lucía</h1>
+    <h1 style="display: inline-block">Hi, I'm Lucía <img src="assets/f.png" alt="Caine" width="70" /></h1>
 </div>
     <div>🎓   I have completed a Computer Engineering degree and hold a Master's in Cybersecurity </div>
     <div>💻   Cybersecurity passionate and independent learner, aough I also enjoy web and application development</div>
