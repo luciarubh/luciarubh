@@ -1,87 +1,89 @@
-<!--divisor-->
+<!--DIVISOR-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--TITULO-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Lucía</h1></summary>
-  </ul>
+<div id="user-content-toc" align="center">
+    <h1 style="display: inline-block">Hi👋, I'm Lucía</h1>
+</div>
+    <div>🎓   I have completed a Computer Engineering degree and hold a Master's in Cybersecurity </div>
+    <div>💻   Cybersecurity passionate and independent learner, aough I also enjoy web and application development</div>
+    <div>⚡   Mainly interested in pentesting and forensics
+    <div>🏃🏻‍♀️   Outside the tech world, I love doing any kind of sport, especially football and CrossFit⚽🏋🏻‍♀️</div>
+    <div>💬   I'm always open to connect and collaborate with others. You can reach me on LinkedIn: www.linkedin.com/in/luciarubiohernandez</div>
+
+
+
+<!--CIBERSEGURIDAD-->
+<div id="user-content-toc" align="center">
+    <h2 style="display: inline-block">👾Sec Tools</h2>
+</div>
+<!--Pentesting-->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kali&perline=14" />
+  <img src="assets/HTB.png" alt="HTB" width="50" />
+  <img src="https://skillicons.dev/icons?i=bash&perline=14" />
+  <img src="assets/Burp.png" alt="Burp" width="50" />
+  <img src="assets/EvilWinRM.png" alt="EvilWinRM" width="50" />
+  <img src="assets/GoBuster.png" alt="GoBuster" width="50" />
+  <img src="assets/Hydra.png" alt="Hydra" width="50" />
+  <img src="assets/John.png" alt="John" width="50" />
+  <img src="assets/Wfuzz.png" alt="Wfuzz" width="50" />
+  <img src="assets/Wiresherk.png" alt="Wiresherk" width="50" />
+</div>
+<!--Forensics-->
+<div align="center">
+  <img src="assets/Caine.png" alt="Caine" width="50" />
+  <img src="assets/Autopsy.png" alt="Autopsy" width="50" />  
+  <img src="assets/FTK.png" alt="FTKimager" width="50" />
+  <img src="assets/Metasploit.png" alt="Metasploit" width="50" />
+  <img src="assets/HxD.png" alt="HxD" width="50" />  
+  <img src="assets/IDA.png" alt="IDA" width="50" />
+  <img src="assets/RegRipper.png" alt="RegRipper" width="50" />
+  <img src="assets/Volatility.png" alt="Volatility" width="50" />  
+  <img src="assets/X-Ways.png" alt="X-Ways" width="50" />
 </div>
 
 
-<!--SOBRE MI-->
 
-
-<!--TECNGOLOGÍAS-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">👩🏽‍💻Technologies That I Know</h2></summary>
-  </ul>
-</div>
-<!--Programming Languages-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,bash,py,c,cs,css,java,html,dotnet,nodejs&perline=14" />
-  </a>
-</p>
-<!-- OS & DB -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,kali,debian,ubuntu,windows,mysql,mongodb&perline=14" />
-  </a>
-</p>
-<!--Herramientas-->
-<p align="center">
-  <a href="https://skillicons.dev">
+<!--OTRAS TECNGOLOGÍAS-->
+<div id="user-content-toc" align="center">
+    <h2 style="display: inline-block">👩🏽‍💻Other Technologies That I Know</h2>
+    <img src="https://skillicons.dev/icons?i=vue,py,c,cs,css,java,html,dotnet,nodejs&perline=14" />
+    <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,windows,mysql,mongodb&perline=14" />
     <img src="https://skillicons.dev/icons?i=figma,eclipse,github,notion,obsidian,postman,vim,visualstudio,vscode&perline=14" />
-  </a>
-</p>
+</div>
+
 
 
 <!--CERTIFICACIONES-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">🏅Certifications</h2></summary>
-  </ul>
+<div id="user-content-toc" align="center">
+    <h2 style="display: inline-block">🏅Certifications</h2>
+    <img src="assets/cerT_CCST.png" alt="ccst" width="110" />
+    <img src="assets/cert_Microsoft.png" alt="sc900" width="110" />
+    <img src="assets/cert_CyberJun_cisco.png" alt="cyberjunior" width="110" />
+    <img src="assets/cert_EngForIT_cisco.png" alt="engforit" width="110" />
 </div>
-<!--Logos-->
-<p align="center">
-<div align="center">
-  <!--Logos-->
-<p align="center">
-  <img src="assets/cerT_CCST.png" alt="ccst" width="110" />
-  <img src="assets/cert_Microsoft.png" alt="sc900" width="110" />
-  <img src="assets/cert_CyberJun_cisco.png" alt="cyberjunior" width="110" />
-  <img src="assets/cert_EngForIT_cisco.png" alt="engforit" width="110" />
-</p>
-</div>
-</p>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">🛠️Working on</h2></summary>
-  </ul>
-</div>
-<!--Logos-->
-<div align="center">
-  <img src="assets/cert_ejpt.svg" alt="ejpt" width="100"> 
+<!--WORKING ON-->
+<div id="user-content-toc" align="center">
+  <h2 style="display: inline-block">🛠️Working on</h2>
+  <img src="assets/cert_ejpt.svg" alt="ejpt" width="80"> 
+  <img src="assets/Angeles.png" alt="Angeles" width="90"> 
 </div>
 
 
 <!-- CONTACTO -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">🌐Contact</h2></summary>
-  </ul>
+<div id="user-content-toc" align="center">
+    <h2 style="display: inline-block">🌐Contact</h2>
 </div>
 
-<!--icons and links-->
+<!--Icons and Links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/luciarubiohernandez/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+    <a href="https://www.linkedin.com/in/luciarubiohernandez/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 </p>
 
 
 
-<!--divisor-->
+<!--Divisor-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
