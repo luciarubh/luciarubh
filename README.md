@@ -28,7 +28,7 @@
   <img src="assets/Hydra.png" alt="Hydra" width="50" />
   <img src="assets/John.png" alt="John" width="50" />
   <img src="assets/Wfuzz.png" alt="Wfuzz" width="50" />
-  <img src="assets/Wiresherk.png" alt="Wiresherk" width="50" />
+  <img src="assets/Wireshark.png" alt="Wireshark" width="50" />
 </div>
 <!--Forensics-->
 <div align="center">
