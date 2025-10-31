@@ -66,7 +66,6 @@
 <div align="center">
   <img src="assets/cert_ejpt.svg" alt="ejpt" width="100"> 
 </div>
-<img src="https://skillicons.dev/icons?i=c&perline=14" />
 
 
 <!-- CONTACTO -->
