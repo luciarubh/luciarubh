@@ -49,7 +49,12 @@
 <div id="user-content-toc" align="center">
     <h2 style="display: inline-block">👩🏽‍💻Other Technologies That I Know</h2>
     <img src="https://skillicons.dev/icons?i=vue,py,c,cs,css,java,html,dotnet,nodejs&perline=14" />
+    
+</div>
+<div id="user-content-toc" align="center">
     <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,windows,mysql,mongodb&perline=14" />
+</div>
+<div id="user-content-toc" align="center">
     <img src="https://skillicons.dev/icons?i=figma,eclipse,github,notion,obsidian,postman,vim,visualstudio,vscode&perline=14" />
 </div>
 
