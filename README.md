@@ -6,7 +6,7 @@
     <h1 style="display: inline-block">Hi, I'm Lucía <img src="assets/f.png" alt="Caine" width="70" /></h1>
 </div>
     <div>🎓   I have completed a Computer Engineering degree and hold a Master's in Cybersecurity </div>
-    <div>💻   Cybersecurity passionate and independent learner, aough I also enjoy web and application development</div>
+    <div>💻   Cybersecurity passionate and independent learner, although I also enjoy web and application development</div>
     <div>⚡   Mainly interested in pentesting and forensics
     <div>🏃🏻‍♀️   Outside the tech world, I love doing any kind of sport, especially football and CrossFit⚽🏋🏻‍♀️</div>
     <div>💬   I'm always open to connect and collaborate with others. You can reach me on LinkedIn: www.linkedin.com/in/luciarubiohernandez</div>
