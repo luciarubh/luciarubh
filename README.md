@@ -1,16 +1,17 @@
 <!--DIVISOR-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--TITULO-->
+<!--TITULO
 <div id="user-content-toc" align="center">
     <h1 style="display: inline-block">Hi, I'm Lucía <img src="assets/f.png" alt="Caine" width="70" /></h1>
 </div>
+
     <div>🎓   I have completed a Computer Engineering degree and hold a Master's in Cybersecurity </div>
     <div>💻   Cybersecurity passionate and independent learner, although I also enjoy web and application development</div>
     <div>⚡   Mainly interested in pentesting and forensics
     <div>🏃🏻‍♀️   Outside the tech world, I love doing any kind of sport, especially football and CrossFit⚽🏋🏻‍♀️</div>
     <div>💬   I'm always open to connect and collaborate with others. You can reach me on LinkedIn: www.linkedin.com/in/luciarubiohernandez</div>
-
+-->
 
 
 <!--CIBERSEGURIDAD-->
