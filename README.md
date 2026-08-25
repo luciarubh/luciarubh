@@ -63,16 +63,17 @@
 <!--CERTIFICACIONES-->
 <div id="user-content-toc" align="center">
     <h2 style="display: inline-block">🏅Certifications</h2>
-    <img src="assets/cerT_CCST.png" alt="ccst" width="110" />
-    <img src="assets/cert_Microsoft.png" alt="sc900" width="110" />
-    <img src="assets/cert_CyberJun_cisco.png" alt="cyberjunior" width="110" />
-    <img src="assets/cert_EngForIT_cisco.png" alt="engforit" width="110" />
+    <img src="assets/cert_ejpt.svg" alt="ejpt" width="85"> 
+    <img src="assets/cerT_CCST.png" alt="ccst" width="100" />
+    <img src="assets/cert_Microsoft.png" alt="sc900" width="100" />
+    <img src="assets/cert_CyberJun_cisco.png" alt="cyberjunior" width="100" />
+    <!-- <img src="assets/cert_EngForIT_cisco.png" alt="engforit" width="100" /> -->
 </div>
 
 <!--WORKING ON-->
 <div id="user-content-toc" align="center">
   <h2 style="display: inline-block">🛠️Working on</h2>
-  <img src="assets/cert_ejpt.svg" alt="ejpt" width="80"> 
+  <img src="assets/CPTS.png" alt="cpts" width="100"> 
   <img src="assets/Angeles.png" alt="Angeles" width="90"> 
 </div>
 
