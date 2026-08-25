@@ -73,7 +73,7 @@
 <!--WORKING ON-->
 <div id="user-content-toc" align="center">
   <h2 style="display: inline-block">🛠️Working on</h2>
-  <img src="assets/CPTS.png" alt="cpts" width="100"> 
+  <img src="assets/CPTS_2.png" alt="cpts" width="100"> 
   <img src="assets/Angeles.png" alt="Angeles" width="90"> 
 </div>
 
